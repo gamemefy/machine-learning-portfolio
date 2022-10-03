@@ -1,6 +1,6 @@
 # STEM 직군 연봉 예측 머신러닝 프로젝트  
 
-* STEM: Science, Tech, Engineering, Math의 앞글자를 딴 말로, 일반적으로 이공계를 의미
+* `STEM`: Science, Tech, Engineering, Math의 앞글자를 딴 말로, 일반적으로 이공계를 의미
 
 ## 프로젝트 가설 설정
 
@@ -42,7 +42,7 @@
       13  otherdetails  :  기타 세부사항   
 
       14  cityid :  미국내 도시 ID         
-      
+
       15  dmaid  : 방송 권역 ID  
 
       16  rowNumber : 행 번호    
