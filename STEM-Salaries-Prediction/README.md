@@ -1,6 +1,6 @@
 # STEM 직군 연봉 예측 머신러닝 프로젝트  
 
-* `STEM`: Science, Tech, Engineering, Math의 앞글자를 딴 말로, 일반적으로 이공계를 의미
+* STEM: Science, Tech, Engineering, Math의 앞글자를 딴 말로, 일반적으로 이공계를 의미
 
 ## 프로젝트 가설 설정
 
@@ -13,63 +13,63 @@
 
     * 설명         
       ---  ------                   --------------  -----         
-      0   timestamp :        기록된 시간
+      0   `timestamp` :        기록된 시간
 
-      1   company  :         회사    
+      1   `company`  :         회사    
 
-      2   level  :       직급       
+      2   `level`  :       직급       
 
-      3   title :          직책   
+      3   `title` :          직책   
 
-      4   totalyearlycompensation :  기본급과 상여금 등 각종 수당을 포함한 연봉  
+      4   `totalyearlycompensation` :  기본급과 상여금 등 각종 수당을 포함한 연봉  
 
-      5   location :     직장 위치       
+      5   `location` :     직장 위치       
 
-      6   yearsofexperience:   (연 단위)경험    
+      6   `yearsofexperience`:   (연 단위)경험    
 
-      7   yearsatcompany  : 직장 내 근무 기간       
+      7   `yearsatcompany`  : 직장 내 근무 기간       
       
-      8   tag : 풀스택, 백엔드 등 구체적인 직무 설명     
+      8   `tag` : 풀스택, 백엔드 등 구체적인 직무 설명     
 
-      9   basesalary  :  기본급      
+      9   `basesalary`  :  기본급      
 
-      10  stockgrantvalue  :  보상으로 주어진 주식(무상) 가치       
+      10  `stockgrantvalue`  :  보상으로 주어진 주식(무상) 가치       
 
-      11  bonus :  추가 수당       
+      11  `bonus` :  추가 수당       
 
-      12  gender :  젠더     
+      12  `gender` :  젠더     
 
-      13  otherdetails  :  기타 세부사항   
+      13  `otherdetails`  :  기타 세부사항   
 
-      14  cityid :  미국내 도시 ID         
+      14  `cityid` :  미국내 도시 ID         
 
-      15  dmaid  : 방송 권역 ID  
+      15  `dmaid`  : 방송 권역 ID  
 
-      16  rowNumber : 행 번호    
+      16  `rowNumber` : 행 번호    
 
-      17  Masters_Degree : 1(석사 학위가 최종 학위), 0       
+      17  `Masters_Degree` : 1(석사 학위가 최종 학위), 0       
 
-      18  Bachelors_Degree : 1(학사 학위가 최종 학위), 0    
+      18  `Bachelors_Degree` : 1(학사 학위가 최종 학위), 0    
 
-      19  Doctorate_Degree : 1(박사 학위가 최종 학위), 0    
+      19  `Doctorate_Degree` : 1(박사 학위가 최종 학위), 0    
 
-      20  Highschool : 1(고등학교 학위가 최종 학위), 0      
+      20  `Highschool` : 1(고등학교 학위가 최종 학위), 0      
 
-      21  Some_College : 1(전문대 학위가 최종 학위), 0       
+      21  `Some_College` : 1(전문대 학위가 최종 학위), 0       
 
-      22  Race_Asian : 아시아인       
+      22  `Race_Asian` : 아시아인       
 
-      23  Race_White : 백인     
+      23  `Race_White` : 백인     
 
-      24  Race_Two_Or_More : 두 가지 이상의 인종
+      24  `Race_Two_Or_More` : 두 가지 이상의 인종
 
-      25  Race_Black : 흑인      
+      25  `Race_Black` : 흑인      
 
-      26  Race_Hispanic : 히스패닉     
+      26  `Race_Hispanic` : 히스패닉     
 
-      27  Race : 인종   
+      27  `Race` : 인종   
 
-      28  Education : 교육 수준 
+      28  `Education` : 교육 수준 
 
 
 
