@@ -1,3 +1,3 @@
 # machine-learning-portfolio
 
-Contains portfolio of machine learning projects I carried out. Presented in the form of iPython Notebooks, and markdown files.
+Containg portfolio of machine learning projects I carried out and completed. Presented in the form of iPython Notebooks, and markdown files.
